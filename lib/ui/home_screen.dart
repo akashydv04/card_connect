@@ -68,9 +68,9 @@ class HomeScreen extends StatelessWidget {
                           ),
                           Row(
                             children: [
-                              Icon(Icons.home, color: Colors.teal),
+                              Icon(Icons.flutter_dash, color: Colors.teal),
                               SizedBox(width: 10),
-                              Text("CEO Yadav",
+                              Text("Flutter Developer",
                                   style: TextStyle(color: Colors.teal)),
                             ],
                           ),
